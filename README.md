@@ -1,4 +1,4 @@
-applifry
+Applifry
 ========
 
-Open MVC web app for kickstarting new app ideas with crowdsourced feedback
+An open ASP.NET MVC web app for kickstarting new app ideas with crowdsourced feedback. Visit [[Applifry.org]] for more info.
