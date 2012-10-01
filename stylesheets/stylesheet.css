@@ -95,6 +95,15 @@ header h2 {
   margin: 0 auto;
 }
 
+/* This method of attaching the logo allows it to scale well with responsive design. (@lorddev) */
+header .inner h1 {
+  background-image: url(../images/logo-banner-white.png);
+  background-repeat: no-repeat;
+  background-size: 1.25em;
+  padding-left: 1.4em;
+  padding-bottom:.2em;
+}
+
 #content-wrapper {
   border-top: solid 1px #fff;
   padding-top: 30px;
